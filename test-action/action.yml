@@ -1,5 +1,0 @@
-name: "Test api"
-description: "Runs pytest against the running API"
-runs:
-  using: "docker"
-  image: "Dockerfile"
